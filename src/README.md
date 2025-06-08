@@ -1,4 +1,4 @@
-# helloAir
+# HelloAir
 
 This project is managed in the `helloAir` repository.
 
