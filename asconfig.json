@@ -1,0 +1,15 @@
+{
+	"config": "air",
+	"compilerOptions": {
+		"source-path": [
+			"src"
+		],
+		"library-path": [
+			"libs"
+		],
+		"output": "bin/HelloAir.swf"
+	},
+	"application": "src/HelloAir-app.xml",
+	"mainClass": "HelloAir",
+	"copySourcePathAssets": true
+}
