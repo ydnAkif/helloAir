@@ -1,0 +1,17 @@
+[
+  {
+    "label": "AIR: Compile",
+    "command": "amxmlc -source-path src -output bin/HelloAir.swf src/HelloAir.as",
+    "cwd": "$ZED_WORKTREE_ROOT",
+  },
+  {
+    "label": "AIR: Run",
+    "command": "adl bin/HelloAir-app.xml bin",
+    "cwd": "$ZED_WORKTREE_ROOT",
+  },
+  {
+    "label": "AIR: Compile and Run",
+    "command": "amxmlc -source-path src -output bin/HelloAir.swf src/HelloAir.as && adl bin/HelloAir-app.xml bin",
+    "cwd": "$ZED_WORKTREE_ROOT",
+  },
+]
