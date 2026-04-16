@@ -19,7 +19,7 @@ This project is managed in the `helloAir` repository.
 
 - Java (version required by the project)
 - IntelliJ IDEA 2025.1.2 or compatible IDE
-- Adobe Air SDK 51.2.1.5
+- Adobe Air SDK 51.3.1.1
 
 ## License
 
